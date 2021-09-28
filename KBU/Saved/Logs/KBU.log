@@ -9376,3 +9376,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.28-22.57.40:291][893]LogEditorActor: Deleted Actor: StaticMeshActor
 [2021.09.28-22.57.40:296][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
 [2021.09.28-22.57.40:296][893]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.09.28-23.01.38:186][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Game_map_layout_2_Torus_005)
+[2021.09.28-23.02.17:056][562]LogEditorViewport: Clicking Background
+[2021.09.28-23.02.23:773][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Game_map_layout_2_Cube_213)
