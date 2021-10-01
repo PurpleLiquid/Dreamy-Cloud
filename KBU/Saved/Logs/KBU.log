@@ -2434,3 +2434,385 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.30-23.59.53:444][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.09.30-23.59.53:458][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
 [2021.09.30-23.59.53:499][488]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.10.01-00.01.11:131][783]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2021.10.01-00.01.17:242][348]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2021.10.01-00.01.20:372][626]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.01-00.01.31:203][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_2_game3)
+[2021.10.01-00.01.35:968][395]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-00.01.36:005][395]LogPlayLevel: Warning: Cancelling Open Transaction 'Edit Light Color' to start PIE session.
+[2021.10.01-00.01.36:005][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-00.01.36:005][395]PIE: New page: PIE session: Low_polylvl (Sep. 30, 2021, 12:01:36 p.m.)
+[2021.10.01-00.01.36:028][395]LogPlayLevel: Creating play world package: /Game/StarterContent/Low_Poly_level/UEDPIE_0_Low_polylvl
+[2021.10.01-00.01.36:053][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024569s)
+[2021.10.01-00.01.36:054][395]LogAIModule: Creating AISystem for world Low_polylvl
+[2021.10.01-00.01.36:054][395]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2021.10.01-00.01.36:054][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Low_Poly_level/Low_polylvl.Low_polylvl to /Game/StarterContent/Low_Poly_level/UEDPIE_0_Low_polylvl.Low_polylvl (0.025620s)
+[2021.10.01-00.01.36:059][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.10.01-00.01.36:060][395]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.10.01-00.01.36:060][395]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-00.01.36:060][395]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-00.01.36:060][395]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-00.01.36:060][395]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-00.01.36:060][395]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-00.01.36:060][395]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-00.01.36:060][395]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-00.01.36:060][395]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-00.01.36:061][395]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-00.01.36:061][395]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-00.01.36:063][395]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-00.01.36:063][395]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-00.01.36:074][395]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.10.01-00.01.36:074][395]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-00.01.36:074][395]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-00.01.36:074][395]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-00.01.36:074][395]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-00.01.36:074][395]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.01-00.01.36:074][395]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.01-00.01.36:084][395]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.01-00.01.36:084][395]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.01-00.01.36:084][395]LogInit: FAudioDevice initialized.
+[2021.10.01-00.01.36:085][395]LogAudio: Display: Audio Device (ID: 15) registered with world 'Low_polylvl'.
+[2021.10.01-00.01.36:094][395]LogLoad: Game class is 'GameModeBase'
+[2021.10.01-00.01.36:106][395]LogWorld: Bringing World /Game/StarterContent/Low_Poly_level/UEDPIE_0_Low_polylvl.Low_polylvl up for play (max tick rate 0) at 2021.09.30-18.01.36
+[2021.10.01-00.01.36:107][395]LogWorld: Bringing up level for play took: 0.011731
+[2021.10.01-00.01.36:107][395]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.10.01-00.01.36:109][395]PIE: Server logged in
+[2021.10.01-00.01.36:110][395]PIE: Play in editor total start time 0.138 seconds.
+[2021.10.01-00.01.36:110][395]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.01-00.01.42:679][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-00.01.42:679][124]LogWorld: BeginTearingDown for /Game/StarterContent/Low_Poly_level/UEDPIE_0_Low_polylvl
+[2021.10.01-00.01.42:680][124]LogWorld: UWorld::CleanupWorld for Low_polylvl, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-00.01.42:682][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-00.01.42:686][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-00.01.42:698][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-00.01.42:703][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-00.01.42:704][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.01-00.01.42:705][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.01-00.01.42:718][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.10.01-00.01.42:740][125]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.10.01-00.01.43:469][197]MapCheck: New page: Map Check
+[2021.10.01-00.01.43:668][197]Cmd: MAP REBUILD ALLVISIBLE
+[2021.10.01-00.01.43:668][197]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.10.01-00.01.43:671][197]LogWorld: UWorld::CleanupWorld for Low_polylvl, bSessionEnded=true, bCleanupResources=false
+[2021.10.01-00.01.43:769][197]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.10.01-00.01.43:769][197]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.10.01-00.01.43:769][197]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.10.01-00.01.43:791][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.10.01-00.01.43:792][197]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2021.10.01-00.01.43:804][197]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.01-00.01.43:805][197]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 48
+[2021.10.01-00.01.43:805][197]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 47
+[2021.10.01-00.01.43:805][197]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 46
+[2021.10.01-00.01.43:805][197]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 45
+[2021.10.01-00.01.43:805][197]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 44
+[2021.10.01-00.01.43:805][197]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 43
+[2021.10.01-00.01.43:805][197]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 42
+[2021.10.01-00.01.43:805][197]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 41
+[2021.10.01-00.01.43:805][197]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 40
+[2021.10.01-00.01.43:805][197]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 39
+[2021.10.01-00.01.43:805][197]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 38
+[2021.10.01-00.01.43:805][197]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 37
+[2021.10.01-00.01.43:805][197]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 36
+[2021.10.01-00.01.43:805][197]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 35
+[2021.10.01-00.01.43:805][197]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 34
+[2021.10.01-00.01.43:805][197]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 33
+[2021.10.01-00.01.43:805][197]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 36
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 35
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 34
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 33
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 32
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 31
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 30
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 29
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 28
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 27
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 26
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 25
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 24
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 23
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 22
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 21
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 20
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 19
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 18
+[2021.10.01-00.01.45:197][197]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 17
+[2021.10.01-00.01.45:198][197]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 16
+[2021.10.01-00.01.45:198][197]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 15
+[2021.10.01-00.01.45:198][197]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 14
+[2021.10.01-00.01.45:198][197]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 13
+[2021.10.01-00.01.45:198][197]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 12
+[2021.10.01-00.01.45:198][197]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 11
+[2021.10.01-00.01.45:198][197]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 10
+[2021.10.01-00.01.45:198][197]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 9
+[2021.10.01-00.01.45:198][197]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 8
+[2021.10.01-00.01.45:198][197]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 7
+[2021.10.01-00.01.45:198][197]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 6
+[2021.10.01-00.01.45:198][197]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 5
+[2021.10.01-00.01.45:198][197]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 4
+[2021.10.01-00.01.45:198][197]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 3
+[2021.10.01-00.01.45:198][197]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 2
+[2021.10.01-00.01.45:198][197]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 1
+[2021.10.01-00.01.45:198][197]TextureStreamingBuild: Display: Compiling optional shaders took 1.405 seconds.
+[2021.10.01-00.01.45:201][197]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2021.10.01-00.01.45:204][197]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2021.10.01-00.01.45:210][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.10.01-00.01.45:212][197]LightingResults: New page: Lighting Build - Sep. 30, 2021, 12:01:45 p.m.
+[2021.10.01-00.01.45:216][197]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.10.01-00.01.45:218][197]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.10.01-00.01.45:218][197]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.10.01-00.01.45:219][197]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.10.01-00.01.45:219][197]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13728
+[2021.10.01-00.01.49:746][197]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2021.10.01-00.01.49:747][197]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.10.01-00.01.49:747][197]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.10.01-00.01.49:747][197]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.10.01-00.01.49:747][197]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.10.01-00.01.49:747][197]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.10.01-00.01.49:865][197]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.10.01-00.01.49:865][197]MapCheck: New page: Low_polylvl - Sep. 30, 2021, 12:01:49 p.m.
+[2021.10.01-00.01.49:865][197]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2021.10.01-00.01.49:867][197]MapCheck: Warning: Door_2_game_2 Static mesh actor has NULL StaticMesh property 
+[2021.10.01-00.01.49:867][197]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 2.097ms to complete.
+[2021.10.01-00.01.49:869][197]LogEditorBuildUtils: Build time 0:06
+[2021.10.01-00.01.50:037][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.10.01-00.01.53:424][436]LightingResults: Warning: Game_map_layout_2_Plane_006 Object has overlapping UVs.
+[2021.10.01-00.01.53:424][436]LightingResults: Game_map_layout_2_Plane_006 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.01-00.01.53:557][448]LightingResults: Warning: Game_map_layout_2_Cube_277 Object has overlapping UVs.
+[2021.10.01-00.01.53:557][448]LightingResults: Game_map_layout_2_Cube_277 Lightmap UV are overlapping by 43.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.01-00.01.53:888][469]LightingResults: Warning: Game_map_layout_2_Cube_268 Object has overlapping UVs.
+[2021.10.01-00.01.53:888][469]LightingResults: Game_map_layout_2_Cube_268 Lightmap UV are overlapping by 43.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.01-00.01.53:931][470]LightingResults: Warning: Game_map_layout_2_Cube_033 Object has overlapping UVs.
+[2021.10.01-00.01.53:931][470]LightingResults: Game_map_layout_2_Cube_033 Lightmap UV are overlapping by 43.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.01-00.01.53:931][470]LightingResults: Warning: Game_map_layout_2_Plane_005 Object has overlapping UVs.
+[2021.10.01-00.01.53:931][470]LightingResults: Game_map_layout_2_Plane_005 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.01-00.01.53:958][471]LightingResults: Warning: Game_map_layout_2_Plane_004 Object has overlapping UVs.
+[2021.10.01-00.01.53:958][471]LightingResults: Game_map_layout_2_Plane_004 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.01-00.01.54:003][474]LightingResults: Warning: Game_map_layout_2_Plane_003 Object has overlapping UVs.
+[2021.10.01-00.01.54:003][474]LightingResults: Game_map_layout_2_Plane_003 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.01-00.01.54:222][493]LightingResults: Warning: Game_map_layout_2_Cube_275 Object has overlapping UVs.
+[2021.10.01-00.01.54:222][493]LightingResults: Game_map_layout_2_Cube_275 Lightmap UV are overlapping by 43.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.01-00.01.54:291][498]LightingResults: Warning: Game_map_layout_2_Cube_276 Object has overlapping UVs.
+[2021.10.01-00.01.54:291][498]LightingResults: Game_map_layout_2_Cube_276 Lightmap UV are overlapping by 43.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.01-00.01.54:738][538]LightingResults: Warning: Game_map_layout_2_Cylinder_001 Object has overlapping UVs.
+[2021.10.01-00.01.54:738][538]LightingResults: Game_map_layout_2_Cylinder_001 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.01-00.01.54:803][541]LightingResults: Warning: Game_map_layout_2_Plane_001 Object has overlapping UVs.
+[2021.10.01-00.01.54:825][542]LightingResults: Game_map_layout_2_Plane_001 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.01-00.01.54:848][543]LightingResults: Warning: Game_map_layout_2_Plane_002 Object has overlapping UVs.
+[2021.10.01-00.01.54:848][543]LightingResults: Game_map_layout_2_Plane_002 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.01-00.01.55:809][629]LightingResults: Warning: Game_map_layout_2_Cube_283 Object has overlapping UVs.
+[2021.10.01-00.01.55:809][629]LightingResults: Game_map_layout_2_Cube_283 Lightmap UV are overlapping by 43.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.01-00.01.55:837][630]LightingResults: Warning: Game_map_layout_2_Cube_154 Object has overlapping UVs.
+[2021.10.01-00.01.55:837][630]LightingResults: Game_map_layout_2_Cube_154 Lightmap UV are overlapping by 43.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.01-00.01.56:195][662]LightingResults: Warning: Game_map_layout_2_Plane_007 Object has overlapping UVs.
+[2021.10.01-00.01.56:195][662]LightingResults: Game_map_layout_2_Plane_007 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.01-00.02.06:450][595]Job is a success!
+[2021.10.01-00.02.06:706][596]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.065s
+[2021.10.01-00.02.06:706][596]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2021.10.01-00.02.06:706][596]LogVolumetricLightmapImport:      BrickData (all levels) 0.6Mb (trimmed 3.6Mb due to 0.010000 MinBrickError)
+[2021.10.01-00.02.06:706][596]LogVolumetricLightmapImport:      Bricks at depth
+[2021.10.01-00.02.06:706][596]LogVolumetricLightmapImport:          0: 6.7% covering 100.0% of volume
+[2021.10.01-00.02.06:706][596]LogVolumetricLightmapImport:          1: 70.0% covering 16.4% of volume
+[2021.10.01-00.02.06:706][596]LogVolumetricLightmapImport:          2: 23.3% covering 0.1% of volume
+[2021.10.01-00.02.06:706][596]LogVolumetricLightmapImport:      Bricks in each level
+[2021.10.01-00.02.06:706][596]LogVolumetricLightmapImport:          Low_polylvl 			 120 bricks 	 100.0% (Persistent Level)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 512X256)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 512X512)
+[2021.10.01-00.02.07:882][596]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 512X512)
+[2021.10.01-00.02.08:078][596]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 16X1024)
+[2021.10.01-00.02.08:078][596]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 1024X1024)
+[2021.10.01-00.02.08:078][596]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 1024X1024)
+[2021.10.01-00.02.08:078][596]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 1024X1024)
+[2021.10.01-00.02.08:078][596]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (BGRA8, 1024X1024)
+[2021.10.01-00.02.08:078][596]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (BGRA8, 1024X1024)
+[2021.10.01-00.02.08:079][596]LogStaticLightingSystem: Low_polylvl_BuiltData storing lightmap data for 665 meshes in 14 LightmapResourceClusters (47.5 Meshes per cluster).
+[2021.10.01-00.02.08:093][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.10.01-00.02.08:108][596]Lightmass on DESKTOP-CMP7VSQ: 17.5 sec total, 169 ms importing, 31 ms setup, 2.33 sec photons, 14.9 sec processing, 0 ms extra exporting [665/665 mappings]. Threads: 4:43 min total, 55.6 sec processing.
+[2021.10.01-00.02.08:120][596]LogStaticLightingSystem: Illumination: 22.8 sec (844 ms encoding lightmaps, 183 ms encoding shadowmaps)
+[2021.10.01-00.02.08:120][596]LogStaticLightingSystem: Lightmap texture memory:  24.7 MB (14.0 MB streaming, 10.7 MB non-streaming), 14 textures
+[2021.10.01-00.02.08:120][596]LogStaticLightingSystem: Shadowmap texture memory: 14.7 MB (8.0 MB streaming, 6.7 MB non-streaming), 6 textures
+[2021.10.01-00.02.08:762][596]DumpUnbuiltLightIteractions
+[2021.10.01-00.02.08:762][596]Lights with unbuilt interactions: 0
+[2021.10.01-00.02.08:762][596]
+[2021.10.01-00.02.08:762][596]Primitives with unbuilt interactions: 0
+[2021.10.01-00.02.08:834][597]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.10.01-00.02.08:834][597]MapCheck: New page: Low_polylvl - Sep. 30, 2021, 12:02:08 p.m.
+[2021.10.01-00.02.08:836][597]MapCheck: Warning: Door_2_game_2 Static mesh actor has NULL StaticMesh property 
+[2021.10.01-00.02.08:836][597]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 2.134ms to complete.
+[2021.10.01-00.02.12:622][964]LogSlate: Window 'Message Log' being destroyed
+[2021.10.01-00.02.12:631][964]LogSlate: Window 'Message Log' being destroyed
+[2021.10.01-00.02.19:355][761]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-00.02.19:359][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-00.02.19:359][761]PIE: New page: PIE session: Low_polylvl (Sep. 30, 2021, 12:02:19 p.m.)
+[2021.10.01-00.02.19:398][761]LogPlayLevel: Creating play world package: /Game/StarterContent/Low_Poly_level/UEDPIE_0_Low_polylvl
+[2021.10.01-00.02.19:422][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024243s)
+[2021.10.01-00.02.19:423][761]LogAIModule: Creating AISystem for world Low_polylvl
+[2021.10.01-00.02.19:423][761]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2021.10.01-00.02.19:423][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Low_Poly_level/Low_polylvl.Low_polylvl to /Game/StarterContent/Low_Poly_level/UEDPIE_0_Low_polylvl.Low_polylvl (0.025243s)
+[2021.10.01-00.02.19:428][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.10.01-00.02.19:430][761]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.10.01-00.02.19:430][761]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-00.02.19:430][761]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-00.02.19:430][761]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-00.02.19:430][761]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-00.02.19:430][761]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-00.02.19:430][761]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-00.02.19:430][761]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-00.02.19:430][761]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-00.02.19:430][761]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-00.02.19:430][761]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-00.02.19:432][761]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-00.02.19:432][761]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-00.02.19:443][761]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.10.01-00.02.19:443][761]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-00.02.19:443][761]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-00.02.19:443][761]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-00.02.19:443][761]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-00.02.19:443][761]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.01-00.02.19:443][761]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.01-00.02.19:454][761]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.01-00.02.19:454][761]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.01-00.02.19:454][761]LogInit: FAudioDevice initialized.
+[2021.10.01-00.02.19:454][761]LogAudio: Display: Audio Device (ID: 16) registered with world 'Low_polylvl'.
+[2021.10.01-00.02.19:465][761]LogLoad: Game class is 'GameModeBase'
+[2021.10.01-00.02.19:477][761]LogWorld: Bringing World /Game/StarterContent/Low_Poly_level/UEDPIE_0_Low_polylvl.Low_polylvl up for play (max tick rate 0) at 2021.09.30-18.02.19
+[2021.10.01-00.02.19:477][761]LogWorld: Bringing up level for play took: 0.011203
+[2021.10.01-00.02.19:477][761]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.10.01-00.02.19:479][761]PIE: Server logged in
+[2021.10.01-00.02.19:480][761]PIE: Play in editor total start time 0.122 seconds.
+[2021.10.01-00.04.42:880][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-00.04.42:881][948]LogWorld: BeginTearingDown for /Game/StarterContent/Low_Poly_level/UEDPIE_0_Low_polylvl
+[2021.10.01-00.04.42:881][948]LogWorld: UWorld::CleanupWorld for Low_polylvl, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-00.04.42:883][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-00.04.42:890][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-00.04.42:903][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-00.04.42:908][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-00.04.42:908][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.01-00.04.42:909][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.01-00.04.42:923][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.10.01-00.04.42:945][949]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.10.01-00.04.53:329][337]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-00.04.53:334][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-00.04.53:334][337]PIE: New page: PIE session: Low_polylvl (Sep. 30, 2021, 12:04:53 p.m.)
+[2021.10.01-00.04.53:358][337]LogPlayLevel: Creating play world package: /Game/StarterContent/Low_Poly_level/UEDPIE_0_Low_polylvl
+[2021.10.01-00.04.53:382][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024092s)
+[2021.10.01-00.04.53:383][337]LogAIModule: Creating AISystem for world Low_polylvl
+[2021.10.01-00.04.53:383][337]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2021.10.01-00.04.53:383][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Low_Poly_level/Low_polylvl.Low_polylvl to /Game/StarterContent/Low_Poly_level/UEDPIE_0_Low_polylvl.Low_polylvl (0.025055s)
+[2021.10.01-00.04.53:388][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.10.01-00.04.53:389][337]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.10.01-00.04.53:389][337]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-00.04.53:389][337]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-00.04.53:389][337]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-00.04.53:389][337]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-00.04.53:389][337]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-00.04.53:389][337]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-00.04.53:389][337]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-00.04.53:389][337]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-00.04.53:389][337]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-00.04.53:389][337]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-00.04.53:391][337]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-00.04.53:391][337]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-00.04.53:402][337]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.10.01-00.04.53:402][337]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-00.04.53:402][337]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-00.04.53:402][337]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-00.04.53:402][337]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-00.04.53:402][337]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.01-00.04.53:402][337]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.01-00.04.53:413][337]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.01-00.04.53:413][337]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.01-00.04.53:413][337]LogInit: FAudioDevice initialized.
+[2021.10.01-00.04.53:413][337]LogAudio: Display: Audio Device (ID: 17) registered with world 'Low_polylvl'.
+[2021.10.01-00.04.53:420][337]LogLoad: Game class is 'GameModeBase'
+[2021.10.01-00.04.53:432][337]LogWorld: Bringing World /Game/StarterContent/Low_Poly_level/UEDPIE_0_Low_polylvl.Low_polylvl up for play (max tick rate 0) at 2021.09.30-18.04.53
+[2021.10.01-00.04.53:432][337]LogWorld: Bringing up level for play took: 0.012056
+[2021.10.01-00.04.53:432][337]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.10.01-00.04.53:434][337]PIE: Server logged in
+[2021.10.01-00.04.53:435][337]PIE: Play in editor total start time 0.103 seconds.
+[2021.10.01-00.05.17:139][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-00.05.17:139][175]LogWorld: BeginTearingDown for /Game/StarterContent/Low_Poly_level/UEDPIE_0_Low_polylvl
+[2021.10.01-00.05.17:140][175]LogWorld: UWorld::CleanupWorld for Low_polylvl, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-00.05.17:142][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-00.05.17:151][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-00.05.17:163][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-00.05.17:167][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-00.05.17:168][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.01-00.05.17:169][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.01-00.05.17:183][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.10.01-00.05.17:214][177]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.10.01-00.06.12:231][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Game_map_layout_2_Cube_1155)
+[2021.10.01-00.06.38:610][  8]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-00.06.38:614][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-00.06.38:614][  8]PIE: New page: PIE session: Low_polylvl (Sep. 30, 2021, 12:06:38 p.m.)
+[2021.10.01-00.06.38:639][  8]LogPlayLevel: Creating play world package: /Game/StarterContent/Low_Poly_level/UEDPIE_0_Low_polylvl
+[2021.10.01-00.06.38:664][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024561s)
+[2021.10.01-00.06.38:664][  8]LogAIModule: Creating AISystem for world Low_polylvl
+[2021.10.01-00.06.38:665][  8]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2021.10.01-00.06.38:665][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Low_Poly_level/Low_polylvl.Low_polylvl to /Game/StarterContent/Low_Poly_level/UEDPIE_0_Low_polylvl.Low_polylvl (0.025646s)
+[2021.10.01-00.06.38:670][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.10.01-00.06.38:670][  8]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.10.01-00.06.38:670][  8]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-00.06.38:671][  8]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-00.06.38:671][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-00.06.38:671][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-00.06.38:671][  8]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-00.06.38:671][  8]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-00.06.38:671][  8]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-00.06.38:671][  8]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-00.06.38:671][  8]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-00.06.38:671][  8]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-00.06.38:673][  8]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-00.06.38:673][  8]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-00.06.38:683][  8]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.10.01-00.06.38:683][  8]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-00.06.38:683][  8]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-00.06.38:683][  8]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-00.06.38:683][  8]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-00.06.38:683][  8]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.01-00.06.38:683][  8]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.01-00.06.38:693][  8]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.01-00.06.38:693][  8]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.01-00.06.38:693][  8]LogInit: FAudioDevice initialized.
+[2021.10.01-00.06.38:693][  8]LogAudio: Display: Audio Device (ID: 18) registered with world 'Low_polylvl'.
+[2021.10.01-00.06.38:698][  8]LogLoad: Game class is 'GameModeBase'
+[2021.10.01-00.06.38:709][  8]LogWorld: Bringing World /Game/StarterContent/Low_Poly_level/UEDPIE_0_Low_polylvl.Low_polylvl up for play (max tick rate 0) at 2021.09.30-18.06.38
+[2021.10.01-00.06.38:710][  8]LogWorld: Bringing up level for play took: 0.011441
+[2021.10.01-00.06.38:710][  8]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.10.01-00.06.38:712][  8]PIE: Server logged in
+[2021.10.01-00.06.38:712][  8]PIE: Play in editor total start time 0.1 seconds.
+[2021.10.01-00.07.42:460][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-00.07.42:460][641]LogWorld: BeginTearingDown for /Game/StarterContent/Low_Poly_level/UEDPIE_0_Low_polylvl
+[2021.10.01-00.07.42:461][641]LogWorld: UWorld::CleanupWorld for Low_polylvl, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-00.07.42:463][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-00.07.42:473][641]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-00.07.42:485][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-00.07.42:490][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-00.07.42:491][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.01-00.07.42:492][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.01-00.07.42:506][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.10.01-00.07.42:551][643]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.10.01-00.11.15:032][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.10.01-00.11.15:168][404]LogSavePackage: Moving '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Saved/Low_polylvl91841B9E4FEDF898D461398E50CA8059.tmp' to '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Content/StarterContent/Low_Poly_level/Low_polylvl.umap'
+[2021.10.01-00.11.15:393][404]LogSavePackage: Moving '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Saved/Low_polylvl_BuiltDataDA208A9C42E782D7FFC1E9A20EBFA4C7.tmp' to '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Content/StarterContent/Low_Poly_level/Low_polylvl_BuiltData.uasset'
+[2021.10.01-00.11.15:409][404]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.01-00.11.15:409][404]LogContentValidation: Display: Validating World /Game/StarterContent/Low_Poly_level/Low_polylvl.Low_polylvl
+[2021.10.01-00.11.15:409][404]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Low_Poly_level/Low_polylvl_BuiltData.Low_polylvl_BuiltData
