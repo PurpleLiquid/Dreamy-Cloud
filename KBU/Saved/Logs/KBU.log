@@ -2805,3 +2805,288 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.01-07.48.25:833][ 67]Cmd: MAP CHECK NOTIFYRESULTS
 [2021.10.01-07.48.25:833][ 67]MapCheck: New page: Model_testing - Sep. 30, 2021, 7:48:25 p.m.
 [2021.10.01-07.48.25:833][ 67]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.288ms to complete.
+[2021.10.01-07.48.47:930][520]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-07.48.47:934][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-07.48.47:934][520]PIE: New page: PIE session: Model_testing (Sep. 30, 2021, 7:48:47 p.m.)
+[2021.10.01-07.48.47:934][520]LogPlayLevel: Creating play world package: /Game/StarterContent/Low_Poly_level/UEDPIE_0_Model_testing
+[2021.10.01-07.48.47:937][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002133s)
+[2021.10.01-07.48.47:937][520]LogAIModule: Creating AISystem for world Model_testing
+[2021.10.01-07.48.47:937][520]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2021.10.01-07.48.47:937][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Low_Poly_level/Model_testing.Model_testing to /Game/StarterContent/Low_Poly_level/UEDPIE_0_Model_testing.Model_testing (0.003000s)
+[2021.10.01-07.48.47:941][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.10.01-07.48.47:942][520]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.10.01-07.48.47:942][520]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-07.48.47:942][520]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-07.48.47:942][520]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-07.48.47:942][520]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-07.48.47:942][520]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-07.48.47:942][520]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-07.48.47:942][520]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-07.48.47:942][520]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-07.48.47:942][520]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-07.48.47:942][520]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-07.48.47:945][520]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-07.48.47:945][520]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-07.48.47:955][520]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.10.01-07.48.47:955][520]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-07.48.47:955][520]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-07.48.47:955][520]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-07.48.47:956][520]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-07.48.47:956][520]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.01-07.48.47:956][520]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.01-07.48.47:967][520]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.01-07.48.47:967][520]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.01-07.48.47:967][520]LogInit: FAudioDevice initialized.
+[2021.10.01-07.48.47:967][520]LogAudio: Display: Audio Device (ID: 9) registered with world 'Model_testing'.
+[2021.10.01-07.48.47:973][520]LogLoad: Game class is 'GameModeBase'
+[2021.10.01-07.48.47:975][520]LogWorld: Bringing World /Game/StarterContent/Low_Poly_level/UEDPIE_0_Model_testing.Model_testing up for play (max tick rate 0) at 2021.10.01-01.48.47
+[2021.10.01-07.48.47:975][520]LogWorld: Bringing up level for play took: 0.000873
+[2021.10.01-07.48.47:975][520]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.10.01-07.48.47:976][520]PIE: Server logged in
+[2021.10.01-07.48.47:977][520]PIE: Play in editor total start time 0.044 seconds.
+[2021.10.01-07.49.08:008][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-07.49.08:008][890]LogWorld: BeginTearingDown for /Game/StarterContent/Low_Poly_level/UEDPIE_0_Model_testing
+[2021.10.01-07.49.08:008][890]LogWorld: UWorld::CleanupWorld for Model_testing, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-07.49.08:008][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-07.49.08:017][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-07.49.08:027][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-07.49.08:030][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-07.49.08:031][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.01-07.49.08:031][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.01-07.49.08:045][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.10.01-07.49.08:068][891]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.10.01-07.49.08:630][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box)
+[2021.10.01-07.49.13:813][491]MapCheck: New page: Map Check
+[2021.10.01-07.49.13:929][491]Cmd: MAP REBUILD ALLVISIBLE
+[2021.10.01-07.49.13:929][491]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.10.01-07.49.13:930][491]LogWorld: UWorld::CleanupWorld for Model_testing, bSessionEnded=true, bCleanupResources=false
+[2021.10.01-07.49.14:062][491]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.10.01-07.49.14:062][491]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.10.01-07.49.14:062][491]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.10.01-07.49.14:081][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.10.01-07.49.14:082][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.01-07.49.14:084][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.01-07.49.14:085][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.01-07.49.14:086][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.01-07.49.14:420][491]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 8
+[2021.10.01-07.49.14:421][491]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 7
+[2021.10.01-07.49.14:421][491]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 6
+[2021.10.01-07.49.14:421][491]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 5
+[2021.10.01-07.49.14:421][491]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 4
+[2021.10.01-07.49.14:421][491]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 3
+[2021.10.01-07.49.14:421][491]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 2
+[2021.10.01-07.49.14:421][491]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 1
+[2021.10.01-07.49.14:421][491]TextureStreamingBuild: Display: Compiling optional shaders took 0.338 seconds.
+[2021.10.01-07.49.14:425][491]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2021.10.01-07.49.14:426][491]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2021.10.01-07.49.14:429][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.10.01-07.49.14:435][491]LightingResults: New page: Lighting Build - Sep. 30, 2021, 7:49:14 p.m.
+[2021.10.01-07.49.14:443][491]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.10.01-07.49.14:446][491]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.10.01-07.49.14:446][491]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.10.01-07.49.14:447][491]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.10.01-07.49.14:447][491]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9324
+[2021.10.01-07.49.18:979][491]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.10.01-07.49.18:979][491]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.10.01-07.49.18:979][491]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.10.01-07.49.18:980][491]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.10.01-07.49.18:980][491]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.10.01-07.49.18:980][491]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.10.01-07.49.19:054][491]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.10.01-07.49.19:054][491]MapCheck: New page: Model_testing - Sep. 30, 2021, 7:49:19 p.m.
+[2021.10.01-07.49.19:054][491]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2021.10.01-07.49.19:054][491]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.336ms to complete.
+[2021.10.01-07.49.19:056][491]LogEditorBuildUtils: Build time 0:05
+[2021.10.01-07.49.19:133][491]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Box_material, compiling. 
+[2021.10.01-07.49.19:135][491]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Box_material, compiling. 
+[2021.10.01-07.49.19:411][491]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 4
+[2021.10.01-07.49.19:411][491]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 3
+[2021.10.01-07.49.19:411][491]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 2
+[2021.10.01-07.49.19:411][491]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 1
+[2021.10.01-07.49.19:673][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.10.01-07.49.20:814][557]Job is a success!
+[2021.10.01-07.49.21:041][558]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2021.10.01-07.49.21:041][558]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.10.01-07.49.21:041][558]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2021.10.01-07.49.21:041][558]LogVolumetricLightmapImport:      Bricks at depth
+[2021.10.01-07.49.21:041][558]LogVolumetricLightmapImport:          0: 25.0% covering 100.0% of volume
+[2021.10.01-07.49.21:041][558]LogVolumetricLightmapImport:          1: 50.0% covering 3.1% of volume
+[2021.10.01-07.49.21:041][558]LogVolumetricLightmapImport:          2: 25.0% covering 0.0% of volume
+[2021.10.01-07.49.21:041][558]LogVolumetricLightmapImport:      Bricks in each level
+[2021.10.01-07.49.21:041][558]LogVolumetricLightmapImport:          Model_testing 			 4 bricks 	 100.0% (Persistent Level)
+[2021.10.01-07.49.21:132][558]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2021.10.01-07.49.21:132][558]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2021.10.01-07.49.21:132][558]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2021.10.01-07.49.21:132][558]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 1024X128)
+[2021.10.01-07.49.21:132][558]LogStaticLightingSystem: Model_testing_BuiltData storing lightmap data for 26 meshes in 1 LightmapResourceClusters (26.0 Meshes per cluster).
+[2021.10.01-07.49.21:133][558]LogMaterial: Display: Material /Game/StarterContent/Low_Poly_level/Low_polyasset/Door_test/Door_material/Box_material.Box_material needed to have new flag set bUsedWithStaticLighting !
+[2021.10.01-07.49.21:134][558]LogMaterial: Display: Missing cached shader map for material Box_material, compiling. 
+[2021.10.01-07.49.21:153][558]Lightmass on DESKTOP-CMP7VSQ: 991 ms total, 76 ms importing, 23 ms setup, 95 ms photons, 752 ms processing, 0 ms extra exporting [26/26 mappings]. Threads: 14.2 sec total, 3.58 sec processing.
+[2021.10.01-07.49.21:156][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.10.01-07.49.21:197][558]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 21
+[2021.10.01-07.49.21:197][558]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 19
+[2021.10.01-07.49.21:197][558]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 17
+[2021.10.01-07.49.21:197][558]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 15
+[2021.10.01-07.49.21:197][558]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 13
+[2021.10.01-07.49.21:197][558]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 11
+[2021.10.01-07.49.21:197][558]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 9
+[2021.10.01-07.49.21:197][558]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 7
+[2021.10.01-07.49.21:197][558]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 5
+[2021.10.01-07.49.21:197][558]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 3
+[2021.10.01-07.49.21:197][558]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 1
+[2021.10.01-07.49.21:247][558]LogStaticLightingSystem: Illumination: 6.63 sec (62 ms encoding lightmaps, 14 ms encoding shadowmaps)
+[2021.10.01-07.49.21:247][558]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.10.01-07.49.21:247][558]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2021.10.01-07.49.25:988][558]DumpUnbuiltLightIteractions
+[2021.10.01-07.49.25:988][558]Lights with unbuilt interactions: 0
+[2021.10.01-07.49.25:988][558]
+[2021.10.01-07.49.25:988][558]Primitives with unbuilt interactions: 0
+[2021.10.01-07.49.26:085][559]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.10.01-07.49.26:085][559]MapCheck: New page: Model_testing - Sep. 30, 2021, 7:49:26 p.m.
+[2021.10.01-07.49.26:085][559]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.281ms to complete.
+[2021.10.01-07.49.30:439][ 56]LogSlate: Window 'Message Log' being destroyed
+[2021.10.01-07.49.30:445][ 56]LogSlate: Window 'Message Log' being destroyed
+[2021.10.01-07.49.36:260][735]MapCheck: New page: Map Check
+[2021.10.01-07.49.36:297][735]Cmd: MAP REBUILD ALLVISIBLE
+[2021.10.01-07.49.36:297][735]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.10.01-07.49.36:298][735]LogWorld: UWorld::CleanupWorld for Model_testing, bSessionEnded=true, bCleanupResources=false
+[2021.10.01-07.49.36:311][735]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.10.01-07.49.36:311][735]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.10.01-07.49.36:311][735]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.10.01-07.49.36:315][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.10.01-07.49.36:317][735]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.01-07.49.36:318][735]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.01-07.49.36:319][735]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.01-07.49.36:320][735]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.01-07.49.36:567][735]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 8
+[2021.10.01-07.49.36:567][735]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 7
+[2021.10.01-07.49.36:567][735]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 6
+[2021.10.01-07.49.36:567][735]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 5
+[2021.10.01-07.49.36:567][735]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 4
+[2021.10.01-07.49.36:567][735]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 3
+[2021.10.01-07.49.36:567][735]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 2
+[2021.10.01-07.49.36:567][735]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 1
+[2021.10.01-07.49.36:567][735]TextureStreamingBuild: Display: Compiling optional shaders took 0.250 seconds.
+[2021.10.01-07.49.36:571][735]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2021.10.01-07.49.36:572][735]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2021.10.01-07.49.36:575][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.10.01-07.49.36:576][735]LightingResults: New page: Lighting Build - Sep. 30, 2021, 7:49:36 p.m.
+[2021.10.01-07.49.36:596][735]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.10.01-07.49.36:598][735]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.10.01-07.49.36:598][735]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.10.01-07.49.36:598][735]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.10.01-07.49.36:598][735]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9324
+[2021.10.01-07.49.41:136][735]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.10.01-07.49.41:136][735]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.10.01-07.49.41:136][735]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.10.01-07.49.41:136][735]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.10.01-07.49.41:136][735]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.10.01-07.49.41:136][735]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.10.01-07.49.41:202][735]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.10.01-07.49.41:202][735]MapCheck: New page: Model_testing - Sep. 30, 2021, 7:49:41 p.m.
+[2021.10.01-07.49.41:202][735]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.294ms to complete.
+[2021.10.01-07.49.41:204][735]LogEditorBuildUtils: Build time 0:04
+[2021.10.01-07.49.41:224][735]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Box_material, compiling. 
+[2021.10.01-07.49.41:226][735]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Box_material, compiling. 
+[2021.10.01-07.49.41:603][735]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2021.10.01-07.49.41:603][735]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2021.10.01-07.49.41:603][735]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 2
+[2021.10.01-07.49.41:603][735]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 1
+[2021.10.01-07.49.42:078][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.10.01-07.49.43:205][747]Job is a success!
+[2021.10.01-07.49.43:424][748]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2021.10.01-07.49.43:424][748]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.10.01-07.49.43:424][748]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2021.10.01-07.49.43:424][748]LogVolumetricLightmapImport:      Bricks at depth
+[2021.10.01-07.49.43:424][748]LogVolumetricLightmapImport:          0: 25.0% covering 100.0% of volume
+[2021.10.01-07.49.43:424][748]LogVolumetricLightmapImport:          1: 50.0% covering 3.1% of volume
+[2021.10.01-07.49.43:424][748]LogVolumetricLightmapImport:          2: 25.0% covering 0.0% of volume
+[2021.10.01-07.49.43:424][748]LogVolumetricLightmapImport:      Bricks in each level
+[2021.10.01-07.49.43:424][748]LogVolumetricLightmapImport:          Model_testing 			 4 bricks 	 100.0% (Persistent Level)
+[2021.10.01-07.49.43:515][748]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2021.10.01-07.49.43:515][748]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2021.10.01-07.49.43:515][748]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2021.10.01-07.49.43:515][748]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X128)
+[2021.10.01-07.49.43:515][748]LogStaticLightingSystem: Model_testing_BuiltData storing lightmap data for 26 meshes in 1 LightmapResourceClusters (26.0 Meshes per cluster).
+[2021.10.01-07.49.43:519][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.10.01-07.49.43:547][748]Lightmass on DESKTOP-CMP7VSQ: 958 ms total, 69 ms importing, 22 ms setup, 94 ms photons, 744 ms processing, 0 ms extra exporting [26/26 mappings]. Threads: 14.1 sec total, 3.43 sec processing.
+[2021.10.01-07.49.43:598][748]LogStaticLightingSystem: Illumination: 6.89 sec (63 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2021.10.01-07.49.43:598][748]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.10.01-07.49.43:598][748]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2021.10.01-07.49.44:137][748]DumpUnbuiltLightIteractions
+[2021.10.01-07.49.44:138][748]Lights with unbuilt interactions: 0
+[2021.10.01-07.49.44:138][748]
+[2021.10.01-07.49.44:138][748]Primitives with unbuilt interactions: 0
+[2021.10.01-07.49.44:200][749]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.10.01-07.49.44:200][749]MapCheck: New page: Model_testing - Sep. 30, 2021, 7:49:44 p.m.
+[2021.10.01-07.49.44:200][749]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.287ms to complete.
+[2021.10.01-07.49.51:938][585]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-07.49.51:942][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-07.49.51:943][585]PIE: New page: PIE session: Model_testing (Sep. 30, 2021, 7:49:51 p.m.)
+[2021.10.01-07.49.51:977][585]LogPlayLevel: Creating play world package: /Game/StarterContent/Low_Poly_level/UEDPIE_0_Model_testing
+[2021.10.01-07.49.51:979][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002115s)
+[2021.10.01-07.49.51:979][585]LogAIModule: Creating AISystem for world Model_testing
+[2021.10.01-07.49.51:980][585]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2021.10.01-07.49.51:980][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Low_Poly_level/Model_testing.Model_testing to /Game/StarterContent/Low_Poly_level/UEDPIE_0_Model_testing.Model_testing (0.002962s)
+[2021.10.01-07.49.51:983][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.10.01-07.49.51:984][585]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.10.01-07.49.51:984][585]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-07.49.51:984][585]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-07.49.51:984][585]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-07.49.51:984][585]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-07.49.51:984][585]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-07.49.51:984][585]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-07.49.51:984][585]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-07.49.51:984][585]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-07.49.51:985][585]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.01-07.49.51:985][585]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-07.49.51:987][585]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-07.49.51:987][585]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-07.49.51:997][585]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.10.01-07.49.51:997][585]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-07.49.51:997][585]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-07.49.51:997][585]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-07.49.51:997][585]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-07.49.51:997][585]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.01-07.49.51:997][585]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.01-07.49.52:008][585]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.01-07.49.52:008][585]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.01-07.49.52:008][585]LogInit: FAudioDevice initialized.
+[2021.10.01-07.49.52:008][585]LogAudio: Display: Audio Device (ID: 10) registered with world 'Model_testing'.
+[2021.10.01-07.49.52:013][585]LogLoad: Game class is 'GameModeBase'
+[2021.10.01-07.49.52:014][585]LogWorld: Bringing World /Game/StarterContent/Low_Poly_level/UEDPIE_0_Model_testing.Model_testing up for play (max tick rate 0) at 2021.10.01-01.49.52
+[2021.10.01-07.49.52:014][585]LogWorld: Bringing up level for play took: 0.000835
+[2021.10.01-07.49.52:014][585]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.10.01-07.49.52:016][585]PIE: Server logged in
+[2021.10.01-07.49.52:016][585]PIE: Play in editor total start time 0.075 seconds.
+[2021.10.01-07.58.02:606][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-07.58.02:606][415]LogWorld: BeginTearingDown for /Game/StarterContent/Low_Poly_level/UEDPIE_0_Model_testing
+[2021.10.01-07.58.02:607][415]LogWorld: UWorld::CleanupWorld for Model_testing, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-07.58.02:608][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-07.58.02:625][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-07.58.02:652][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-07.58.02:655][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-07.58.02:655][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.01-07.58.02:656][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.01-07.58.02:670][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.10.01-07.58.02:697][416]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.10.01-07.58.13:137][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.10.01-07.58.13:171][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.10.01-07.58.13:182][485]LogSavePackage: Moving '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Saved/Model_testing8E1804FD4C9FB816C30FDABD336A8B68.tmp' to '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Content/StarterContent/Low_Poly_level/Model_testing.umap'
+[2021.10.01-07.58.13:186][485]LogFileHelpers: Saving map 'Model_testing' took 0.017
+[2021.10.01-07.58.13:205][485]LogSavePackage: Moving '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Saved/Model_testing_BuiltDataEAFF9D744C6B07BE353EB78E83E7F3EA.tmp' to '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Content/StarterContent/Low_Poly_level/Model_testing_BuiltData.uasset'
+[2021.10.01-07.58.13:208][485]LogSavePackage: Moving '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Saved/DoorFrameF87A153B44BD0B85DB5662A2DE519392.tmp' to '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Content/StarterContent/Low_Poly_level/Low_polyasset/Door_test/Door_material/DoorFrame.uasset'
+[2021.10.01-07.58.13:210][485]LogSavePackage: Moving '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Saved/Box_material1B7A12D5487F17FABF8F01A055BFB0DA.tmp' to '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Content/StarterContent/Low_Poly_level/Low_polyasset/Door_test/Door_material/Box_material.uasset'
+[2021.10.01-07.58.13:945][485]LogSavePackage: Moving '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Saved/Box_DefaultMaterial_Normal7B7EA3BF49366822673B65AEE1858DDE.tmp' to '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Content/StarterContent/Low_Poly_level/Low_polyasset/Door_test/Door_material/Box_DefaultMaterial_Normal.uasset'
+[2021.10.01-07.58.14:759][485]LogSavePackage: Moving '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Saved/Box_DefaultMaterial_OcclusionRou9CA0F5834179EFB11F390B8E4B5B1164.tmp' to '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Content/StarterContent/Low_Poly_level/Low_polyasset/Door_test/Door_material/Box_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2021.10.01-07.58.15:370][485]LogSavePackage: Moving '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Saved/Box_DefaultMaterial_BaseColorA0F376324B846132627B03A5BFFC2BC4.tmp' to '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Content/StarterContent/Low_Poly_level/Low_polyasset/Door_test/Door_material/Box_DefaultMaterial_BaseColor.uasset'
+[2021.10.01-07.58.15:394][485]LogSavePackage: Moving '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Saved/Box4DFAF30146801593F23167B329C40264.tmp' to '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Content/StarterContent/Low_Poly_level/Low_polyasset/Door_test/Door_material/Box.uasset'
+[2021.10.01-07.58.15:432][485]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.01-07.58.15:432][485]LogContentValidation: Display: Validating World /Game/StarterContent/Low_Poly_level/Model_testing.Model_testing
+[2021.10.01-07.58.15:432][485]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Low_Poly_level/Model_testing_BuiltData.Model_testing_BuiltData
+[2021.10.01-07.58.15:432][485]LogContentValidation: Display: Validating Material /Game/StarterContent/Low_Poly_level/Low_polyasset/Door_test/Door_material/DoorFrame.DoorFrame
+[2021.10.01-07.58.15:432][485]LogContentValidation: Display: Validating Material /Game/StarterContent/Low_Poly_level/Low_polyasset/Door_test/Door_material/Box_material.Box_material
+[2021.10.01-07.58.15:432][485]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/Low_Poly_level/Low_polyasset/Door_test/Door_material/Box_DefaultMaterial_BaseColor.Box_DefaultMaterial_BaseColor
+[2021.10.01-07.58.15:432][485]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/Low_Poly_level/Low_polyasset/Door_test/Door_material/Box_DefaultMaterial_OcclusionRoughnessMetallic.Box_DefaultMaterial_OcclusionRoughnessMetallic
+[2021.10.01-07.58.15:432][485]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/Low_Poly_level/Low_polyasset/Door_test/Door_material/Box_DefaultMaterial_Normal.Box_DefaultMaterial_Normal
+[2021.10.01-07.58.15:432][485]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Low_Poly_level/Low_polyasset/Door_test/Door_material/Box.Box
