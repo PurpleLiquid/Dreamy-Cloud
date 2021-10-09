@@ -1914,3 +1914,354 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.09-00.54.51:121][984]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/Low_Poly_level/Low_polyasset/Assets/Environment/Railing/Railing_texture/Game_map_layout_4_Railing_medium_BaseColor.Game_map_layout_4_Railing_medium_BaseColor
 [2021.10.09-00.54.51:121][984]LogContentValidation: Display: Validating Material /Game/StarterContent/Low_Poly_level/Low_polyasset/Assets/Environment/Railing/Railing_texture/Railing_small.Railing_small
 [2021.10.09-00.54.51:121][984]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/Low_Poly_level/Low_polyasset/Assets/Environment/Railing/Railing_texture/Game_map_layout_4_Railing_medium_Normal.Game_map_layout_4_Railing_medium_Normal
+[2021.10.09-00.55.06:922][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_009)
+[2021.10.09-00.55.07:836][508]Cmd: DELETE
+[2021.10.09-00.55.07:836][508]Cmd: ACTOR DELETE
+[2021.10.09-00.55.07:837][508]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.09-00.55.07:843][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.10.09-00.55.07:845][508]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.10.09-00.55.11:993][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_007)
+[2021.10.09-00.55.22:251][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_006)
+[2021.10.09-00.55.23:984][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_004)
+[2021.10.09-00.55.41:423][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_7)
+[2021.10.09-00.55.42:257][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_7)
+[2021.10.09-00.55.43:910][291]Cmd: DELETE
+[2021.10.09-00.55.43:910][291]Cmd: ACTOR DELETE
+[2021.10.09-00.55.43:911][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.09-00.55.43:915][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.10.09-00.55.43:918][291]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.10.09-00.55.44:322][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_6)
+[2021.10.09-00.55.54:151][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_004)
+[2021.10.09-00.55.56:562][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_test23)
+[2021.10.09-00.56.01:048][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_007)
+[2021.10.09-00.56.14:403][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_test21)
+[2021.10.09-00.56.16:412][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_006)
+[2021.10.09-00.56.27:435][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_007)
+[2021.10.09-00.56.36:167][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_006)
+[2021.10.09-00.56.41:350][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_004)
+[2021.10.09-00.56.51:510][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_test24)
+[2021.10.09-00.57.17:209][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_test24)
+[2021.10.09-00.57.24:045][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_11)
+[2021.10.09-00.57.30:494][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_6)
+[2021.10.09-00.57.37:627][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_test23)
+[2021.10.09-00.57.41:106][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_test24)
+[2021.10.09-00.57.42:479][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_test22)
+[2021.10.09-00.57.50:397][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_test21)
+[2021.10.09-00.58.02:109][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_frame_3)
+[2021.10.09-00.58.22:086][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_frame_5)
+[2021.10.09-00.58.41:496][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_frame_6)
+[2021.10.09-00.58.44:139][886]Cmd: DELETE
+[2021.10.09-00.58.44:139][886]Cmd: ACTOR DELETE
+[2021.10.09-00.58.44:140][886]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.09-00.58.44:144][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.10.09-00.58.44:147][886]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.10.09-00.58.48:009][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_frame_5)
+[2021.10.09-00.59.02:502][ 45]Cmd: TRANSACTION UNDO
+[2021.10.09-00.59.02:502][ 45]LogEditorTransaction: Undo Move Actors
+[2021.10.09-00.59.15:888][540]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2021.10.09-00.59.17:502][706]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2021.10.09-00.59.25:545][517]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2021.10.09-00.59.32:763][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_test24)
+[2021.10.09-00.59.37:790][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_10)
+[2021.10.09-00.59.38:374][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_9)
+[2021.10.09-00.59.38:894][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_11)
+[2021.10.09-00.59.40:340][201]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2021.10.09-00.59.42:175][402]Cmd: TRANSACTION UNDO
+[2021.10.09-00.59.42:175][402]LogEditorTransaction: Undo Move Actors
+[2021.10.09-00.59.42:902][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_11)
+[2021.10.09-00.59.46:826][871]Cmd: TRANSACTION UNDO
+[2021.10.09-00.59.46:826][871]LogEditorTransaction: Undo Rotate Actors
+[2021.10.09-00.59.47:347][885]Cmd: TRANSACTION UNDO
+[2021.10.09-00.59.47:347][885]LogEditorTransaction: Undo Move Actors
+[2021.10.09-00.59.49:172][ 81]Cmd: TRANSACTION UNDO
+[2021.10.09-00.59.49:173][ 81]LogEditorTransaction: Undo Rotate Actors
+[2021.10.09-00.59.52:955][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_test21)
+[2021.10.09-00.59.57:288][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_006)
+[2021.10.09-01.00.16:139][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_test22)
+[2021.10.09-01.00.27:704][494]Cmd: DELETE
+[2021.10.09-01.00.27:704][494]Cmd: ACTOR DELETE
+[2021.10.09-01.00.27:706][494]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.09-01.00.27:709][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.10.09-01.00.27:712][494]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.10.09-01.00.33:070][ 44]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2021.10.09-01.00.33:875][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_and_pipes_01_Cylinder_6)
+[2021.10.09-01.00.35:141][263]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2021.10.09-01.00.38:140][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_frame_4)
+[2021.10.09-01.00.38:760][639]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2021.10.09-01.00.40:462][823]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight7)
+[2021.10.09-01.00.42:512][ 57]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2021.10.09-01.00.45:509][371]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight7)
+[2021.10.09-01.00.55:085][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.10.09-01.00.55:120][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.10.09-01.00.55:136][394]LogSavePackage: Moving '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Saved/Model_testing7382B75E44D7CCDE16D0FB80291C4463.tmp' to '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Content/StarterContent/Low_Poly_level/Model_testing.umap'
+[2021.10.09-01.00.55:143][394]LogFileHelpers: Saving map 'Model_testing' took 0.026
+[2021.10.09-01.00.55:163][394]AssetCheck: New page: Asset Save: Model_testing
+[2021.10.09-01.00.55:163][394]LogContentValidation: Display: Validating World /Game/StarterContent/Low_Poly_level/Model_testing.Model_testing
+[2021.10.09-01.01.08:324][777]MapCheck: New page: Map Check
+[2021.10.09-01.01.08:406][777]Cmd: MAP REBUILD ALLVISIBLE
+[2021.10.09-01.01.08:406][777]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.10.09-01.01.08:407][777]LogWorld: UWorld::CleanupWorld for Model_testing, bSessionEnded=true, bCleanupResources=false
+[2021.10.09-01.01.08:422][777]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.10.09-01.01.08:422][777]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.10.09-01.01.08:422][777]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.10.09-01.01.08:460][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.10.09-01.01.08:461][777]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.09-01.01.08:488][777]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2021.10.09-01.01.08:488][777]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2021.10.09-01.01.08:488][777]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2021.10.09-01.01.08:526][777]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 48
+[2021.10.09-01.01.08:526][777]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 47
+[2021.10.09-01.01.08:526][777]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 46
+[2021.10.09-01.01.08:526][777]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 45
+[2021.10.09-01.01.08:526][777]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 44
+[2021.10.09-01.01.08:526][777]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 43
+[2021.10.09-01.01.08:526][777]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 42
+[2021.10.09-01.01.08:526][777]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 41
+[2021.10.09-01.01.08:526][777]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 40
+[2021.10.09-01.01.08:526][777]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 39
+[2021.10.09-01.01.08:526][777]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 38
+[2021.10.09-01.01.08:526][777]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 37
+[2021.10.09-01.01.08:526][777]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 36
+[2021.10.09-01.01.08:526][777]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 35
+[2021.10.09-01.01.08:526][777]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.09-01.01.08:528][777]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.09-01.01.08:529][777]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.09-01.01.08:530][777]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.09-01.01.08:531][777]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.09-01.01.08:532][777]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 46
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 45
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 44
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 43
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 42
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 41
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 40
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 39
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 38
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 37
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 36
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 35
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 34
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 33
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 32
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 31
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 30
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 29
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 28
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 27
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 26
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 25
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 24
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 23
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 22
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 21
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 20
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 19
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 18
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 17
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 16
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 15
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 14
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 13
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 12
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 11
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 10
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 9
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 8
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 7
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 6
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 5
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 4
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 3
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 2
+[2021.10.09-01.01.10:050][777]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 1
+[2021.10.09-01.01.10:050][777]TextureStreamingBuild: Display: Compiling optional shaders took 1.589 seconds.
+[2021.10.09-01.01.10:071][777]LogLevel: Display: Export Material TexCoord Scales took 0.021 seconds.
+[2021.10.09-01.01.10:072][777]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2021.10.09-01.01.10:075][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.10.09-01.01.10:095][777]LightingResults: New page: Lighting Build - Oct. 8, 2021, 1:01:10 p.m.
+[2021.10.09-01.01.10:171][777]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.10.09-01.01.10:207][777]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.10.09-01.01.10:216][777]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.10.09-01.01.10:730][777]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.10.09-01.01.10:731][777]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22252
+[2021.10.09-01.01.17:114][777]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.10.09-01.01.17:115][777]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.10.09-01.01.17:115][777]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.10.09-01.01.17:115][777]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.10.09-01.01.17:115][777]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.10.09-01.01.17:115][777]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.10.09-01.01.17:273][777]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.10.09-01.01.17:273][777]MapCheck: New page: Model_testing - Oct. 8, 2021, 1:01:17 p.m.
+[2021.10.09-01.01.17:273][777]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Door_2_game2_8 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Door_2_game3 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test_16 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test2 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test3 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test4 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Door_frame_01_2 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test5 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test6 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test7 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test8 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Door_2_game4_13 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Door_2_game5_14 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Door_frame_15 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test11 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test12 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test9_37 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test10_38 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test13 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test14 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test15 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test16 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test17 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test18 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test19 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Floor_test20 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:273][777]MapCheck: Warning: Box_52 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:274][777]MapCheck: Warning: Box2 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:274][777]MapCheck: Warning: Box3 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:274][777]MapCheck: Warning: Box4 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.17:293][777]MapCheck: Map check complete: 1 Error(s), 30 Warning(s), took 20.555ms to complete.
+[2021.10.09-01.01.17:295][777]LogEditorBuildUtils: Build time 0:08
+[2021.10.09-01.01.17:529][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.10.09-01.01.18:634][813]Job is a success!
+[2021.10.09-01.01.18:833][814]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2021.10.09-01.01.18:833][814]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.10.09-01.01.18:833][814]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2021.10.09-01.01.18:833][814]LogVolumetricLightmapImport:      Bricks at depth
+[2021.10.09-01.01.18:833][814]LogVolumetricLightmapImport:          0: 14.3% covering 100.0% of volume
+[2021.10.09-01.01.18:833][814]LogVolumetricLightmapImport:          1: 28.6% covering 3.1% of volume
+[2021.10.09-01.01.18:833][814]LogVolumetricLightmapImport:          2: 57.1% covering 0.1% of volume
+[2021.10.09-01.01.18:833][814]LogVolumetricLightmapImport:      Bricks in each level
+[2021.10.09-01.01.18:833][814]LogVolumetricLightmapImport:          Model_testing 			 7 bricks 	 100.0% (Persistent Level)
+[2021.10.09-01.01.18:915][814]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2021.10.09-01.01.18:915][814]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2021.10.09-01.01.18:915][814]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2021.10.09-01.01.18:915][814]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X64)
+[2021.10.09-01.01.18:915][814]LogStaticLightingSystem: Model_testing_BuiltData storing lightmap data for 15 meshes in 2 LightmapResourceClusters (7.5 Meshes per cluster).
+[2021.10.09-01.01.18:919][814]Lightmass on DESKTOP-CMP7VSQ: 869 ms total, 73 ms importing, 24 ms setup, 77 ms photons, 666 ms processing, 0 ms extra exporting [15/15 mappings]. Threads: 12.6 sec total, 2.24 sec processing.
+[2021.10.09-01.01.18:920][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.10.09-01.01.19:005][814]LogStaticLightingSystem: Illumination: 8.78 sec (43 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2021.10.09-01.01.19:006][814]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.10.09-01.01.19:006][814]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2021.10.09-01.01.19:106][814]DumpUnbuiltLightIteractions
+[2021.10.09-01.01.19:106][814]Lights with unbuilt interactions: 0
+[2021.10.09-01.01.19:106][814]
+[2021.10.09-01.01.19:106][814]Primitives with unbuilt interactions: 0
+[2021.10.09-01.01.19:213][815]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.10.09-01.01.19:213][815]MapCheck: New page: Model_testing - Oct. 8, 2021, 1:01:19 p.m.
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Door_2_game2_8 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Door_2_game3 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test_16 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test2 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test3 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test4 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Door_frame_01_2 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test5 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test6 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test7 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test8 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Door_2_game4_13 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Door_2_game5_14 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Door_frame_15 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test11 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test12 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test9_37 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test10_38 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test13 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test14 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test15 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test16 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test17 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test18 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test19 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Floor_test20 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Box_52 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Box2 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Box3 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Warning: Box4 Static mesh actor has NULL StaticMesh property 
+[2021.10.09-01.01.19:214][815]MapCheck: Map check complete: 0 Error(s), 30 Warning(s), took 0.964ms to complete.
+[2021.10.09-01.01.29:621][962]LogSlate: Window 'Message Log' being destroyed
+[2021.10.09-01.01.29:631][962]LogSlate: Window 'Message Log' being destroyed
+[2021.10.09-01.01.49:156][278]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.09-01.01.49:189][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.09-01.01.49:189][278]PIE: New page: PIE session: Model_testing (Oct. 8, 2021, 1:01:49 p.m.)
+[2021.10.09-01.01.49:202][278]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.10.09-01.01.49:209][278]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.10.09-01.01.49:209][278]LogPlayLevel: Creating play world package: /Game/StarterContent/Low_Poly_level/UEDPIE_0_Model_testing
+[2021.10.09-01.01.49:212][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003173s)
+[2021.10.09-01.01.49:213][278]LogAIModule: Creating AISystem for world Model_testing
+[2021.10.09-01.01.49:213][278]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2021.10.09-01.01.49:213][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Low_Poly_level/Model_testing.Model_testing to /Game/StarterContent/Low_Poly_level/UEDPIE_0_Model_testing.Model_testing (0.004126s)
+[2021.10.09-01.01.49:216][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.10.09-01.01.49:235][278]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.10.09-01.01.49:235][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.09-01.01.49:235][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.09-01.01.49:235][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.09-01.01.49:235][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.09-01.01.49:235][278]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.09-01.01.49:235][278]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.09-01.01.49:235][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.09-01.01.49:235][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.09-01.01.49:235][278]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.09-01.01.49:235][278]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.09-01.01.49:238][278]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.09-01.01.49:238][278]LogAudioMixer: Display: 1: FrontRight
+[2021.10.09-01.01.49:249][278]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.10.09-01.01.49:249][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.09-01.01.49:249][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.09-01.01.49:249][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.09-01.01.49:250][278]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.09-01.01.49:250][278]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.09-01.01.49:250][278]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.09-01.01.49:261][278]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.09-01.01.49:261][278]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.09-01.01.49:261][278]LogInit: FAudioDevice initialized.
+[2021.10.09-01.01.49:261][278]LogAudio: Display: Audio Device (ID: 2) registered with world 'Model_testing'.
+[2021.10.09-01.01.49:265][278]LogLoad: Game class is 'GameModeBase'
+[2021.10.09-01.01.49:285][278]LogWorld: Bringing World /Game/StarterContent/Low_Poly_level/UEDPIE_0_Model_testing.Model_testing up for play (max tick rate 0) at 2021.10.08-19.01.49
+[2021.10.09-01.01.49:285][278]LogWorld: Bringing up level for play took: 0.001095
+[2021.10.09-01.01.49:285][278]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.10.09-01.01.49:299][278]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.10.09-01.01.49:300][278]PIE: Server logged in
+[2021.10.09-01.01.49:300][278]PIE: Play in editor total start time 0.139 seconds.
+[2021.10.09-01.04.17:397][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-01.04.17:397][ 25]LogWorld: BeginTearingDown for /Game/StarterContent/Low_Poly_level/UEDPIE_0_Model_testing
+[2021.10.09-01.04.17:397][ 25]LogWorld: UWorld::CleanupWorld for Model_testing, bSessionEnded=true, bCleanupResources=true
+[2021.10.09-01.04.17:397][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.09-01.04.17:407][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.09-01.04.17:413][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.09-01.04.17:416][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-01.04.17:416][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.09-01.04.17:417][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.09-01.04.17:431][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.10.09-01.04.17:480][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.10.09-01.13.24:155][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.10.09-01.13.24:190][739]LogSavePackage: Moving '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Saved/Model_testing_Auto158119C9B4CB0C2ED944522B797D65098.tmp' to '../../../../../3D Game_Engine/Unreal/KB/UnrealProject/Dreamy-Cloud/KBU/Saved/Autosaves/Game/StarterContent/Low_Poly_level/Model_testing_Auto1.umap'
+[2021.10.09-01.13.24:192][739]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Low_Poly_level/Model_testing' took 0.040
+[2021.10.09-01.13.24:192][739]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2021.10.09-01.23.24:664][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.10.09-01.23.24:668][901]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Low_Poly_level/Model_testing' took 0.007
+[2021.10.09-01.33.25:064][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.10.09-01.33.25:066][232]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Low_Poly_level/Model_testing' took 0.006
+[2021.10.09-01.43.25:775][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.10.09-01.43.25:775][ 22]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Low_Poly_level/Model_testing' took 0.004
+[2021.10.09-01.53.26:356][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.10.09-01.53.26:356][812]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Low_Poly_level/Model_testing' took 0.004
+[2021.10.09-02.03.26:842][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.10.09-02.03.26:843][601]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Low_Poly_level/Model_testing' took 0.004
+[2021.10.09-02.11.09:630][352]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.10.09-02.11.09:673][352]LogContentBrowser: Creating deferred item: NewFolder
+[2021.10.09-02.11.14:091][876]LogContentBrowser: Attempting asset rename: NewFolder -> Door_texture
+[2021.10.09-02.11.14:092][876]LogContentBrowser: End creating deferred item NewFolder
+[2021.10.09-02.13.43:299][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.10.09-02.13.43:303][543]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Low_Poly_level/Model_testing' took 0.007
+[2021.10.09-02.23.43:928][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.10.09-02.23.43:931][848]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Low_Poly_level/Model_testing' took 0.007
+[2021.10.09-02.33.44:643][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.10.09-02.33.44:644][640]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Low_Poly_level/Model_testing' took 0.004
+[2021.10.09-02.43.45:003][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.10.09-02.43.45:004][431]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Low_Poly_level/Model_testing' took 0.004
