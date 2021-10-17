@@ -50,7 +50,7 @@ KBU/SourceArt/**/*.tga
 
 # Binary Files
 KBU/Binaries/*
-Plugins/*/Binaries/*
+KBU/Plugins/*/Binaries/*
 
 # Builds
 KBU/Build/*
